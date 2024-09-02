@@ -11,7 +11,7 @@ export default function Page() {
           height={1000}
           className="object-contain h-full w-full"
         />
-        <div className="absolute top-3 right-0 pr-5">
+        <div className="absolute top-20 right-0 pr-5 " >
           <SignIn />
         </div>
       </div>
